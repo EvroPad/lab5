@@ -84,3 +84,15 @@ header {
  .net-borderaradiusa-netuuuu {
     border-radius: 0px !important;
  }
+
+ .positionmagition {
+     position: absolute !important;
+     bottom: -252px !important;
+    right: -350px !important;
+ }
+
+ .positionmagition button {
+     width: 20px !important;
+     height: 20px !important;
+     border-radius: 50% !important;
+ }
