@@ -67,8 +67,8 @@ header {
 
  .txabut {
     position: absolute;
-    bottom: 0px;
-    right: 0px;
+    bottom: 1px;
+    right: 2px;
     height: 30px;
     width: 50px;
     width: 100px;
