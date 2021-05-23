@@ -1,1 +1,86 @@
+header {
+    background-color: rgb(91, 97, 105);
+}
 
+.custom-bg-light {
+    background-color: #d1d1d1;
+}
+
+.no-border {
+    border: none !important;
+}
+
+/* because chrome not support text-justify */
+.fulljustify {
+    text-align: justify;
+  }
+.fulljustify:after {
+    content: "";
+    width: 100%;
+}
+
+.text-left {
+    text-align: left;
+    padding: 10px; 
+}
+
+.c-gray {
+    color:#7c7c7c;
+}
+
+.c-gray-title {
+    color: #5b6169;
+}
+
+.mt-mnoga {
+    margin-top: 75px;
+}
+
+.c-blue {
+    color: #3674ba;
+}
+
+.bg-blue {
+    background-color: #3674ba;
+}
+
+.main-slider {
+    background-image: url(./imgs/background1.png);
+}
+
+.our-services-text {
+    width: 100%; 
+    border-bottom: 1px solid #000; 
+    line-height: 0.1em;
+    margin: 10px 0 20px; 
+ } 
+ 
+ .our-services-text span { 
+     padding:0 10px; 
+ }
+
+ .text-gradient {
+    background: -webkit-linear-gradient(rgb(255, 255, 255), rgb(175, 175, 175)) !important;
+    -webkit-background-clip: text !important;
+    -webkit-text-fill-color: transparent !important;
+ }
+
+ .txabut {
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    height: 30px;
+    width: 50px;
+    width: 100px;
+    background-color: #3674ba;
+    color: rgb(255, 255, 255);
+ }
+
+ input {
+     border-radius: 0px !important;
+     background-color: #f1f1f1 !important;
+ }
+
+ .net-borderaradiusa-netuuuu {
+    border-radius: 0px !important;
+ }
